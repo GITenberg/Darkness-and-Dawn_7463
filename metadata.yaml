@@ -1,5 +1,8 @@
 _repo: Darkness-and-Dawn_7463
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: England, George Allan
@@ -14,6 +17,8 @@ description: Darkness and Dawn is a trilogy by George Allan England which tells 
   1914 as "The Vacant World", "Beyond the Great Oblivion" and "Afterglow". All three
   volumes are included in this edition. "The islands in the harbor, too, were thickly
   overgrown. On Ellis, no sign of the immigrant station remained ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7463#Darkness-and-Dawn
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
